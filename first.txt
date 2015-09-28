@@ -2,3 +2,5 @@ hello,git
 Git is a version control system;
 Git is free software distributed under the GPL.
 to be a better man.
+make a great progress.
+come on!
