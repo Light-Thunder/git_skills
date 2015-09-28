@@ -1,4 +1,4 @@
-hello,git
+hello,my name is zhk
 Git is a version control system;
 Git is free software distributed under the GPL.
 to be a better man.
